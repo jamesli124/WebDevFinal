@@ -1,3 +1,39 @@
-h1 {
-    color: aquamarine;
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0em;
+}
+
+header {
+    background-color: #0099dd;
+    color: white;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 5px;
+    overflow: hidden;
+}
+
+header a {
+    display: block;
+    float: left;
+    padding: 14px 16px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-decoration: none;
+    font-size: 18pt;
+}
+
+header a:hover {
+    background-color: #00bbff;
+}
+
+footer {
+    background-color: #0099dd;
+    color: white;
+    padding: 10px;
+}
+
+footer ul {
+    list-style-type: none;
+    text-align: center;
 }
