@@ -1,6 +1,14 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0em;
+    background-color: black;
+    border-left: 40px white dotted;
+    border-right: 40px white dotted;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
 }
 
 header {
