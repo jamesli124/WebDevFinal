@@ -3,6 +3,7 @@
     text-align: center;
     font-size: 10vw;
     color: aliceblue;
+    padding: 10vw;
 }
 
 .bigFilmContent {
@@ -20,6 +21,7 @@
 
 .movieInfo {
     background-color: beige;
+    color: black;
     border-radius: 5vw;
     font-size: 1.2vw;
     text-align: left;
@@ -38,5 +40,5 @@
 }
 
 #sampleGenre1 {
-    background-image: url(https://m.media-amazon.com/images/M/MV5BMjE1MDYxOTA4MF5BMl5BanBnXkFtZTcwMDE0MDUzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg);
+    background-image: url(https://m.media-amazon.com/images/M/MV5BMjE1MDYxOTA4MF5BMl5BanBnXkFtZTcwMDE0MDUzMw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg);
 }
