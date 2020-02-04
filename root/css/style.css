@@ -31,6 +31,33 @@ body {
   height: 50px;
 }
 
+.parallax {
+  background-position: center center;
+  min-height: 100px;
+  height: 50vw;
+  margin: 5% 0px;
+  border-radius: 5vw;
+  padding-right: 5vw;
+  padding-left: 5vw;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: 150%;
+}
+#parallax1 {
+  background-image: url("https://i.redd.it/efnva8dc01y21.jpg");
+}
+
+#parallax2 {
+  background-image: url("https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2016/07/forrest_gump_still.jpg");
+}
+
+#parallax3 {
+  background-image: url("https://www.gannett-cdn.com/presto/2019/09/26/USAT/4f2f6442-d1b9-4937-b268-39e0b1f70f52-rev-1-JOK-14466_High_Res_JPEG.jpeg?crop=5999,3374,x0,y398&width=660&height=372&format=pjpg&auto=webp");
+}
+
+
 header {
     background-color: #0099dd;
     color: white;
