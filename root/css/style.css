@@ -97,3 +97,9 @@ footer ul {
     list-style-type: none;
     text-align: center;
 }
+
+select {
+  width: 50vw;
+  height: 5vw;
+  font-size: 3vw;
+}
