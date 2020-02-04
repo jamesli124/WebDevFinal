@@ -1,0 +1,44 @@
+.parallax {
+    font-family: courier, monospace;
+    text-align: center;
+    font-size: 10vw;
+    color: aliceblue;
+    padding: 10vw;
+}
+
+.bigFilmContent {
+    min-height: 100px;
+    height: 43vw;
+    background-color: white;
+    margin: 5% 0px;
+    font-family: courier, monospace;
+    text-align: center;
+    font-size: 8vw;
+    border-radius: 5vw;
+    padding-right: 5vw;
+    padding-left: 5vw;
+  }
+
+.movieInfo {
+    background-color: beige;
+    color: black;
+    border-radius: 5vw;
+    font-size: 1.2vw;
+    text-align: left;
+    padding: 5vw;
+    margin: auto;
+    margin-top: 5vw;
+}
+
+.center {
+    text-align: center;
+}
+
+
+#sampleGenre {
+    background-image: url(https://img.huffingtonpost.com/asset/5dcc613f1f00009304dee539.jpeg?cache=QaTFuOj2IM&ops=crop_834_777_4651_2994%2Cscalefit_720_noupscale);
+}
+
+#sampleGenre1 {
+    background-image: url(https://m.media-amazon.com/images/M/MV5BMjE1MDYxOTA4MF5BMl5BanBnXkFtZTcwMDE0MDUzMw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg);
+}
