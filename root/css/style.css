@@ -58,7 +58,7 @@ body {
 }
 
 #parallax4 {
-  background-image: url(https://mineralpointoperahouse.org/wp-content/uploads/2018/08/monty-python1.jpg);
+  background-image: url("https://mineralpointoperahouse.org/wp-content/uploads/2018/08/monty-python1.jpg");
 }
 
 header {
