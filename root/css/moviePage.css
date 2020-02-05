@@ -1,7 +1,7 @@
 .parallax {
     font-family: courier, monospace;
     text-align: center;
-    font-size: 10vw;
+    font-size: 6vw;
     color: aliceblue;
     padding: 10vw;
 }
@@ -13,7 +13,7 @@
     margin: 5% 0px;
     font-family: courier, monospace;
     text-align: center;
-    font-size: 8vw;
+    font-size: 6vw;
     border-radius: 5vw;
     padding-right: 5vw;
     padding-left: 5vw;
@@ -40,5 +40,5 @@
 }
 
 #sampleGenre1 {
-    background-image: url(https://m.media-amazon.com/images/M/MV5BMjE1MDYxOTA4MF5BMl5BanBnXkFtZTcwMDE0MDUzMw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg);
+    background-image: url(https://babbletop.com/wp-content/uploads/2018/03/bee-movie.jpg);
 }
