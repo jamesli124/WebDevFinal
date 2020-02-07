@@ -1,4 +1,4 @@
-f = open("fakeMovieData.csv")
+f = open("movieData.csv")
 movieData = [[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]]
 categories = f.readline().split(",")
 categories[16] = categories[16].replace("\n", "")
