@@ -99,15 +99,15 @@
 }
 
 #family1 {
-   background-image: url(Frozen (2013));
+   background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg);
 }
 
 #family2 {
-   background-image: url(The Incredibles (2004));
+   background-image: url(https://images-na.ssl-images-amazon.com/images/I/716RrNAAMQL._SY445_.jpg);
 }
 
 #family3 {
-   background-image: url(Moana (2016));
+   background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Moana_Teaser_Poster.jpg/220px-Moana_Teaser_Poster.jpg);
 }
 
 #fantasy {
@@ -127,7 +127,7 @@
 }
 
 #history {
-   background-image: url(https://thumbs-prod.si-cdn.com/h6g6R0mmIUmVvAexNBZ2s3oogvw=/800x600/filters:no_upscale():focal(792x380:793x381)/https://public-media.si-cdn.com/filer/79/e1/79e18094-cb58-4e03-ad8a-5def44c589a6/movies5.jpg);
+  background-image: url(https://i.ytimg.com/vi/QVtDijlBDl4/maxresdefault.jpg)
 }
 
 #history1 {
@@ -239,7 +239,7 @@
 }
 
 #superhero {
-   background-image: url("https://i.kinja-img.com/gawker-media/image/upload/c_fill);
+   background-image: url(https://s.studiobinder.com/wp-content/uploads/2019/10/Best-Superhero-Movies-StudioBinder-min.jpg);
 }
 
 #superhero1 {
@@ -247,7 +247,7 @@
 }
 
 #superhero2 {
-   background-image: url(w_1200/uwk9fnseuiialggm03om.jpg");
+   background-image: url(https://cnet3.cbsistatic.com/img/Z9sw9A3lDMDh0W3KyAc7rScxOiA=/2019/03/26/13d0a566-7355-4381-be24-dee281227504/spider-man-far-from-home-promo-image-1.jpg);
 }
 
 #superhero3 {
@@ -285,4 +285,3 @@
 #war3 {
    background-image: url(https://i.ytimg.com/vi/99k3u9ay1gs/maxresdefault.jpg);
 }
-
