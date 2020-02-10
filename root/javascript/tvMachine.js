@@ -12,12 +12,12 @@ function main() {
     let Q6 = document.getElementById("Q6");
 
     let scores = [0,0,0,0,0,0,0,0,0,0,0,0,0];
-    let genres = ["Action-Adventure","Comedy","Crime","Drama","Fantasy","Historical","Horror","Mystery","Political","Romance","Satire","Science-Fiction","Thriller"]
+    let genres = ["Action-Adventure","Comedy","Crime","Drama","Fantasy","Historical","Horror","Mystery","Political","Romance","Satire","Science-Fiction","Thriller"];
 
     genreButton.addEventListener("click", () => {
         let link = "showGenres/" + genreDropDown.value + ".html";
         window.location = link;
-    })
+    });
 
     submit.addEventListener("click", () => {
         if (Q1.value == "true") {
@@ -41,7 +41,7 @@ function main() {
             scores[1] += 1;
             scores[4] += 1;
             scores[8] += 1;
-]            scores[10] += 1;
+            scores[10] += 1;
         } else {
             scores[0] += 1;
             scores[2] += 1;
@@ -148,9 +148,9 @@ function main() {
         }
 
 
-        scores = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+        scores = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
 
-    })
+    });
 
 
 
