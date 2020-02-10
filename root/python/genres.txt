@@ -1,18 +1,13 @@
-Action-Adventure
-Animation
+Action/Adventure
 Comedy
 Crime
-Documentary
 Drama
-Family
 Fantasy
-History
+Historical
 Horror
-Musical
 Mystery
+Political
 Romance
-Sci-Fi
-Sport
-Superhero
+Satire
+Science fiction
 Thriller
-War

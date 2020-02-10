@@ -3,7 +3,7 @@ f = open("genres.txt")
 fout = open("genres.out", "w")
 genres = []
 i = 0
-while i < 24:
+while i < 13:
     print(i)
     genre = f.readline().replace("\n", "")
     print(genre)
