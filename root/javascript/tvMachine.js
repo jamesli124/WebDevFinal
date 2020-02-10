@@ -155,3 +155,10 @@ function main() {
 
 
 }
+
+
+function musicPlay() {
+  let player = document.getElementById('musicPlayer');
+  player.innerHTML = "<audio controls loop autoplay><source src='playful.mp3' type='audio/mp3'/></audio>"
+
+}
