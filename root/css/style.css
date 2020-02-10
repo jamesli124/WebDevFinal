@@ -4,6 +4,25 @@ body {
     background-color: black;
 }
 
+
+.musicButton {
+  color: white;
+  font-size: 1.5em;
+  background-color: #0099dd;
+  height:auto;
+  padding: 10px;
+  float: right;
+  display: inline-block;
+}
+
+#musicPlayer {
+  float: right;
+  display: inline-block;
+  height: 2.3vw;
+  padding-right: 5px;
+}
+
+
 .film {
 
   border-left: 3vw white dashed;
