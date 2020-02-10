@@ -1,14 +1,7 @@
-.parallax {
-    font-family: courier, monospace;
-    text-align: center;
-    font-size: 6vw;
-    color: aliceblue;
-    padding: 10vw;
-}
 
 .bigFilmContent {
     min-height: 100px;
-    height: 43vw;
+    height: 48vw;
     background-color: white;
     margin: 5% 0px;
     font-family: courier, monospace;
@@ -25,9 +18,8 @@
     border-radius: 5vw;
     font-size: 1.2vw;
     text-align: left;
-    padding: 5vw;
     margin: auto;
-    margin-top: 5vw;
+    padding: 2vw;
 }
 
 .center {
