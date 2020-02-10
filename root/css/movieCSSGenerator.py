@@ -1,11 +1,11 @@
-f = open("fakeTVRecommendation.csv")
+f = open("tvRecommendation.csv")
 movieData = [[],[],[],[],[],[],[],[],[],[],[],[],[],[]]
 categories = f.readline().split(",")
 categories[10] = categories[10].replace("\n", "")
 i = 0
 print(categories)
 print(categories[10])
-while i < 14:
+while i < 13:
     movieData[i] = f.readline().split(",")
     movieData[i][10] = movieData[i][10].replace("\n", "")
     i+=1
@@ -14,7 +14,7 @@ f.close()
 fout = open("showGenres.css", "w")
 i = 0
 text = ""
-while i < 14:
+while i < 13:
     genre = movieData[i][0].lower()
     genreImage = movieData[i][1]
     movieImage1 = movieData[i][3]
