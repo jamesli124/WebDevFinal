@@ -23,7 +23,7 @@ while i < 13:
         IMDB = movieData[i][j * 3 + 4]
         html += '        <div id="%s" class="parallax">\n            <div class="movieInfo">\n                <p class="center"><strong>%s</strong></p>\n                <p>IMDB: %s</p>\n            </div>\n        </div>        \n' % (genre.lower()+str(j+1), movieTitle,IMDB)
         j+=1
-    html += '    </div>\n    <footer>\n        <ul>\n            <li><a href="../index.html">Menu</a></li>\n            <li>copyright &copy; 2020 J.A.N.  ·  all rights reserved</li>\n        </ul>\n    </footer>\n</body>\n</html>'
+    html += '    </div>\n    <footer>\n        <ul>\n            <li><a href="../index.html">Menu</a></li>\n            <li>copyright &copy; 2020 J.A.N.  -  all rights reserved</li>\n        </ul>\n    </footer>\n</body>\n</html>'
     fout.write(html)
     fout.close()
     i+=1
