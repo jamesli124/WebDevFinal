@@ -310,6 +310,7 @@ function main() {
 
 }
 
+/* new function for music to make the movie picking experience more fun! */
 
 function musicPlay() {
   let player = document.getElementById('musicPlayer');
